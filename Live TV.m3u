@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/782dyq45q8h4418mn4zp"
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Educational",DISCOVERY CHANNEL
+http://mains.services:2086/stanleyg/6916329/255?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="USA-Discovery Family (X)(720)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Educational",USA-Discovery Family (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/60014?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="USA-Investigation Discovery (M)(720)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Educational",USA-Investigation Discovery (M)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/58072?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOMERANG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",BOOMERANG
+http://fortv.cc:8080/alphonso/alphonso/14741?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",Nick JR
+http://new-pro.tv:8080/Fernando/123321/70388?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon HD
+http://new-pro.tv:8080/Fernando/123321/70389?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="US.CH - CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids",US.CH - CARTOON NETWORK
+http://tv.fullytv.com:8080/vladi1/vladi1/29145?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="US.CH - NICK TOONS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kids",US.CH - NICK TOONS
+http://tv.fullytv.com:8080/vladi1/vladi1/29146?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="BoomerangEnEspanol.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
+http://new-pro.tv:8080/Fernando/123321/72533?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Kids",Cartoon Network
+http://new-pro.tv:8080/Fernando/123321/72497?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="Kids",Disney Channel
+http://new-pro.tv:8080/Fernando/123321/72550?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Kids",Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/72551?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54930_dark_360w_270h.png" group-title="Kids",Disney XD
+http://new-pro.tv:8080/Fernando/123321/72552?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Kids",Tooncast
+http://new-pro.tv:8080/Fernando/123321/72608?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="NBC Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Spanish",NBC Telemundo
+http://new-pro.tv:8080/Fernando/123321/313518?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UNIMAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Spanish",UNIMAS
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/139?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="UNIVISION" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Spanish",UNIVISION
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/138?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 (480p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Spanish",ADN 40 (480p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="14" tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90518_dark_360w_270h.png" group-title="Spanish",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="XHTTGCanal10Chiapas.mx" tvg-name="Noticias Canal 10 (360p) [Not 24/7]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116232_dark_360w_270h.png" group-title="Spanish",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="TeleFórmula" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="Spanish",TeleFórmula
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Spanish",AMC HD
+http://new-pro.tv:8080/Fernando/123321/72495?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="AZ Click B1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" group-title="Spanish",AZ Click B1
+http://new-pro.tv:8080/Fernando/123321/72526?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="AZ Corazon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61404_dark_360w_270h.png" group-title="Spanish",AZ Corazon
+http://new-pro.tv:8080/Fernando/123321/72527?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="AZ Mundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="Spanish",AZ Mundo
+http://new-pro.tv:8080/Fernando/123321/72528?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="Spanish",Azteca 7
+http://new-pro.tv:8080/Fernando/123321/72529?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Azteca Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" group-title="Spanish",Azteca Cinema
+http://new-pro.tv:8080/Fernando/123321/72613?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno B1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="Spanish",Azteca Uno B1
+http://new-pro.tv:8080/Fernando/123321/72530?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Spanish",Bloomberg
+http://new-pro.tv:8080/Fernando/123321/72532?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="11" tvg-id="DuplicateXEIPNTVCanal11(OnceTV).mx" tvg-name="CANAL Once" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Spanish",CANAL Once
+http://new-pro.tv:8080/Fernando/123321/72542?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Spanish",CNN Mexico
+http://new-pro.tv:8080/Fernando/123321/72569?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="5" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Spanish",Canal 5
+http://new-pro.tv:8080/Fernando/123321/72538?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="Spanish",Cinecanal HD
+http://new-pro.tv:8080/Fernando/123321/72498?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="Spanish",Cinemax
+http://new-pro.tv:8080/Fernando/123321/72545?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="Spanish",Comedy Central
+http://new-pro.tv:8080/Fernando/123321/72547?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery H&H HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="Spanish",Discovery H&H HD
+http://new-pro.tv:8080/Fernando/123321/72548?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! Entertainment" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="Spanish",E! Entertainment
+http://new-pro.tv:8080/Fernando/123321/72554?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Spanish",El Gourmet
+http://new-pro.tv:8080/Fernando/123321/72555?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="Spanish",FX FHD
+http://new-pro.tv:8080/Fernando/123321/72506?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Spanish",Food Network
+http://new-pro.tv:8080/Fernando/123321/72564?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="Spanish",Foro TV
+http://new-pro.tv:8080/Fernando/123321/72566?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="Spanish",Glitz
+http://new-pro.tv:8080/Fernando/123321/72574?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Spanish",Golden Edge
+http://new-pro.tv:8080/Fernando/123321/72576?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="Spanish",HGTV
+http://new-pro.tv:8080/Fernando/123321/72578?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="Spanish",History HD
+http://new-pro.tv:8080/Fernando/123321/72516?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="Hola TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="Spanish",Hola TV
+http://new-pro.tv:8080/Fernando/123321/72579?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Spanish",Las Estrellas HD
+http://new-pro.tv:8080/Fernando/123321/72540?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" group-title="Spanish",Mas Chic
+http://new-pro.tv:8080/Fernando/123321/72582?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61719_dark_360w_270h.png" group-title="Spanish",Milenio TV
+http://new-pro.tv:8080/Fernando/123321/72583?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="Spanish",Multimedios
+http://new-pro.tv:8080/Fernando/123321/72585?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99620_dark_360w_270h.png" group-title="Spanish",Multimedios Plus
+http://new-pro.tv:8080/Fernando/123321/72586?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="Nat Geo HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Spanish",Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/72587?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="Spanish",Paramount Channel
+http://new-pro.tv:8080/Fernando/123321/72589?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="Spanish",SyFy
+http://new-pro.tv:8080/Fernando/123321/72597?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="Spanish",TBS
+http://new-pro.tv:8080/Fernando/123321/72598?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="Spanish",TCM
+http://new-pro.tv:8080/Fernando/123321/72599?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="UnivisionTDN.mx" tvg-name="TDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="Spanish",TDN
+http://new-pro.tv:8080/Fernando/123321/72600?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s100841_dark_360w_270h.png" group-title="Spanish",TLC
+http://new-pro.tv:8080/Fernando/123321/72604?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Spanish",TNT
+http://new-pro.tv:8080/Fernando/123321/72606?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Spanish",TNT Series
+http://new-pro.tv:8080/Fernando/123321/72607?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16217_dark_360w_270h.png" group-title="Spanish",TVE
+http://new-pro.tv:8080/Fernando/123321/72611?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="Spanish",Telehit Plus
+http://new-pro.tv:8080/Fernando/123321/72601?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Telemax(XEWH).mx" tvg-name="Telemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15036_dark_360w_270h.png" group-title="Spanish",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Telenovelas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="Spanish",Telenovelas
+http://new-pro.tv:8080/Fernando/123321/72602?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="Spanish",Distrito Comedia
+http://new-pro.tv:8080/Fernando/123321/72553?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="Mexiquense TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28440_dark_360w_270h.png" group-title="Spanish",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="Spanish",Space
+http://new-pro.tv:8080/Fernando/123321/72593?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="Spanish",Unicable
+http://new-pro.tv:8080/Fernando/123321/72614?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s42567_dark_360w_270h.png" group-title="Spanish",VH1
+http://new-pro.tv:8080/Fernando/123321/72615?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Misc",PARAMOUNT NETWORK
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/16?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="US Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="Misc",US Bloomberg
+http://fortv.cc:8080/alphonso/alphonso/15158?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Misc",SYFY
+http://mains.services:2086/stanleyg/6916329/245?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" group-title="Sports",AYM Sports
+http://new-pro.tv:8080/Fernando/123321/72594?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Sports",ESPN 1
+http://new-pro.tv:8080/Fernando/123321/298695?checkedby:iptvcat.com
