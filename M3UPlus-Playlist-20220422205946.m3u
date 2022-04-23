@@ -1,0 +1,137 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5wqvghwwxgky39p"
+#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name="AMC HD" tvg-logo="" group-title="Undefined",AMC HD
+http://new-pro.tv:8080/Fernando/123321/72495?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AZ Click B1" tvg-logo="" group-title="Undefined",AZ Click B1
+http://new-pro.tv:8080/Fernando/123321/72526?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZ Corazon" tvg-logo="" group-title="Undefined",AZ Corazon
+http://new-pro.tv:8080/Fernando/123321/72527?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AZ Mundo" tvg-logo="" group-title="Undefined",AZ Mundo
+http://new-pro.tv:8080/Fernando/123321/72528?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Undefined",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca 7" tvg-logo="" group-title="Undefined",Azteca 7
+http://new-pro.tv:8080/Fernando/123321/72529?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="Azteca Cinema" tvg-logo="" group-title="Undefined",Azteca Cinema
+http://new-pro.tv:8080/Fernando/123321/72613?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno B1" tvg-logo="" group-title="Undefined",Azteca Uno B1
+http://new-pro.tv:8080/Fernando/123321/72530?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="Undefined",Bloomberg
+http://new-pro.tv:8080/Fernando/123321/72532?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="BoomerangMexico.us" tvg-name="Boomerang" tvg-logo="" group-title="Undefined",Boomerang
+http://new-pro.tv:8080/Fernando/123321/72533?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL Once" tvg-logo="" group-title="Undefined",CANAL Once
+http://new-pro.tv:8080/Fernando/123321/72542?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Mexico" tvg-logo="" group-title="Undefined",CNN Mexico
+http://new-pro.tv:8080/Fernando/123321/72569?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="Undefined",Canal 5
+http://new-pro.tv:8080/Fernando/123321/72538?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21" tvg-logo="https://www.capital21.cdmx.gob.mx/assets/img/programas_lat/logo.png" group-title="Undefined",Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="Undefined",Cartoon Network
+http://new-pro.tv:8080/Fernando/123321/72497?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="Cinecanal HD" tvg-logo="" group-title="Undefined",Cinecanal HD
+http://new-pro.tv:8080/Fernando/123321/72498?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax" tvg-logo="" group-title="Undefined",Cinemax
+http://new-pro.tv:8080/Fernando/123321/72545?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmericaNorth.us" tvg-name="Comedy Central" tvg-logo="" group-title="Undefined",Comedy Central
+http://new-pro.tv:8080/Fernando/123321/72547?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name="Discovery H&H HD" tvg-logo="" group-title="Undefined",Discovery H&H HD
+http://new-pro.tv:8080/Fernando/123321/72548?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.us" tvg-name="Disney Channel" tvg-logo="" group-title="Undefined",Disney Channel
+http://new-pro.tv:8080/Fernando/123321/72550?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior HD" tvg-logo="" group-title="Undefined",Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/72551?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="Undefined",Disney XD
+http://new-pro.tv:8080/Fernando/123321/72552?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Entertainment" tvg-logo="" group-title="Undefined",E! Entertainment
+http://new-pro.tv:8080/Fernando/123321/72554?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Gourmet" tvg-logo="" group-title="Undefined",El Gourmet
+http://new-pro.tv:8080/Fernando/123321/72555?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="FXNorte.us" tvg-name="FX FHD" tvg-logo="" group-title="Undefined",FX FHD
+http://new-pro.tv:8080/Fernando/123321/72506?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="Undefined",Food Network
+http://new-pro.tv:8080/Fernando/123321/72564?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Foro TV" tvg-logo="" group-title="Undefined",Foro TV
+http://new-pro.tv:8080/Fernando/123321/72566?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glitz" tvg-logo="" group-title="Undefined",Glitz
+http://new-pro.tv:8080/Fernando/123321/72574?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="" group-title="Undefined",Golden Edge
+http://new-pro.tv:8080/Fernando/123321/72576?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="Undefined",HGTV
+http://new-pro.tv:8080/Fernando/123321/72578?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History HD" tvg-logo="" group-title="Undefined",History HD
+http://new-pro.tv:8080/Fernando/123321/72516?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hola TV" tvg-logo="" group-title="Undefined",Hola TV
+http://new-pro.tv:8080/Fernando/123321/72579?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="LasEstrellasMexico.mx" tvg-name="Las Estrellas HD" tvg-logo="" group-title="Undefined",Las Estrellas HD
+http://new-pro.tv:8080/Fernando/123321/72540?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mas Chic" tvg-logo="" group-title="Undefined",Mas Chic
+http://new-pro.tv:8080/Fernando/123321/72582?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milenio TV" tvg-logo="" group-title="Undefined",Milenio TV
+http://new-pro.tv:8080/Fernando/123321/72583?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios" tvg-logo="" group-title="Undefined",Multimedios
+http://new-pro.tv:8080/Fernando/123321/72585?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="" group-title="Undefined",Multimedios Plus
+http://new-pro.tv:8080/Fernando/123321/72586?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NationalGeographicNorte.us" tvg-name="Nat Geo HD" tvg-logo="" group-title="Undefined",Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/72587?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://new-pro.tv:8080/Fernando/123321/72588?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="Paramount Channel" tvg-logo="" group-title="Undefined",Paramount Channel
+http://new-pro.tv:8080/Fernando/123321/72589?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SyfyLatin.us" tvg-name="SyFy" tvg-logo="" group-title="Undefined",SyFy
+http://new-pro.tv:8080/Fernando/123321/72597?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="TBS" tvg-logo="" group-title="Undefined",TBS
+http://new-pro.tv:8080/Fernando/123321/72598?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TCMAmericaLatina.us" tvg-name="TCM" tvg-logo="" group-title="Undefined",TCM
+http://new-pro.tv:8080/Fernando/123321/72599?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TDN" tvg-logo="" group-title="Undefined",TDN
+http://new-pro.tv:8080/Fernando/123321/72600?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TLCMexico.mx" tvg-name="TLC" tvg-logo="" group-title="Undefined",TLC
+http://new-pro.tv:8080/Fernando/123321/72604?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="TNT" tvg-logo="" group-title="Undefined",TNT
+http://new-pro.tv:8080/Fernando/123321/72606?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name="TNT Series" tvg-logo="" group-title="Undefined",TNT Series
+http://new-pro.tv:8080/Fernando/123321/72607?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE" tvg-logo="" group-title="Undefined",TVE
+http://new-pro.tv:8080/Fernando/123321/72611?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="Telehit Plus" tvg-logo="" group-title="Undefined",Telehit Plus
+http://new-pro.tv:8080/Fernando/123321/72601?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemax" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Undefined",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="Telenovelas" tvg-logo="" group-title="Undefined",Telenovelas
+http://new-pro.tv:8080/Fernando/123321/72602?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" group-title="Undefined",Distrito Comedia
+http://new-pro.tv:8080/Fernando/123321/72553?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="Mexiquense TV" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" group-title="Undefined",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Laguna" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Undefined",Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="Space" tvg-logo="" group-title="Undefined",Space
+http://new-pro.tv:8080/Fernando/123321/72593?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tooncast" tvg-logo="" group-title="Undefined",Tooncast
+http://new-pro.tv:8080/Fernando/123321/72608?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="" group-title="Undefined",Unicable
+http://new-pro.tv:8080/Fernando/123321/72614?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="" group-title="Undefined",VH1
+http://new-pro.tv:8080/Fernando/123321/72615?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wobi" tvg-logo="" group-title="Undefined",Wobi
+http://new-pro.tv:8080/Fernando/123321/72618?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AYM Sports" tvg-logo="" group-title="Sport",AYM Sports
+http://new-pro.tv:8080/Fernando/123321/72594?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 1" tvg-logo="" group-title="Sport",ESPN 1
+http://new-pro.tv:8080/Fernando/123321/298695?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/g46GRL2.jpg" group-title="MEXICO",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hipodromo de las Americas (360p) [Not 24/7]" tvg-logo="" group-title="MEXICO",Hipodromo de las Americas (360p) [Not 24/7]
+http://wms10.tecnoxia.com/soelvi/slv423/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noticias Canal 10 (360p) [Not 24/7]" tvg-logo="" group-title="MEXICO",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleFórmula" tvg-logo="" group-title="MEXICO",TeleFórmula
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televisa Ciudad Juarez (720p) [Not 24/7]" tvg-logo="" group-title="MEXICO",Televisa Ciudad Juarez (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live&checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televisa Estado (1080p) [Not 24/7]" tvg-logo="" group-title="MEXICO",Televisa Estado (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w&checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN 40 (480p)" tvg-logo="" group-title="MEXICO",ADN 40 (480p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?checkedby:iptvcat.com
