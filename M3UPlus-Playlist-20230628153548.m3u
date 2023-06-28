@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y7gw7jf3xm87ymeg"
+#EXTINF:-1 tvg-id="accion" tvg-name="Accion Mexicana" tvg-logo="" group-title="Favorite",Accion Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Daily Animated (1080p) [Geo-blocked]" tvg-logo="" group-title="Favorite",Adult Swim Daily Animated (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-name="Adult Swim East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Favorite",Adult Swim East (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV en Español (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Favorite",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV (1080p)" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Favorite",Az Star TV (1080p)
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Favorite",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="DuplicateXEIPNTVCanal11(OnceTV).mx" tvg-name="Canal 11 (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Favorite",Canal 11 (720p) [Geo-blocked]
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="Canal 44 Ciudad Juárez (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Favorite",Canal 44 Ciudad Juárez (720p) [Geo-blocked]
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (480p)" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Favorite",Canal 5 (480p)
+http://190.61.102.67:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Favorite",Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
+https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network México (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Favorite",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito México (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Favorite",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="SonyCine(Spanish).us" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Favorite",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="sur" tvg-name="Cine Sureño (1080p)" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="Favorite",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax East (360p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Favorite",Cinemax East (360p) [Geo-blocked]
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames(Spanish).us" tvg-name="Estrella Games (1080p)" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Favorite",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs Gags" tvg-logo="" group-title="Favorite",Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="lego" tvg-name="Lego Channel (1080p)" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Favorite",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx" tvg-name="Multimedios Ciudad Juárez (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Favorite",Multimedios Ciudad Juárez (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="NPlus.mx" tvg-name="NMás (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Favorite",NMás (1080p) [Geo-blocked]
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-id="noticia" tvg-name="Noticias Canal 10 (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/JCBZaHf.png" group-title="Favorite",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.(KRWG).Las.Cruces,.NM.us" tvg-name="PBS Las Cruces NM (KRWG) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Favorite",PBS Las Cruces NM (KRWG) (1080p)
+https://krwgdt.lls.pbs.org/out/v1/9cbfc7807e834ee39d2849c1bad667f2/index.m3u8
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome (720p)" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Favorite",People Are Awesome (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-name="Pluto TV Anime (720p) [Not 24/7]" tvg-logo="" group-title="Favorite",Pluto TV Anime (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="5dd8364ea1d6780009929902" tvg-name="Pluto TV Ciencia (720p)" tvg-logo="https://i.imgur.com/MJQTxZT.png" group-title="Favorite",Pluto TV Ciencia (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="pluto" tvg-name="Pluto TV Comedy Central" tvg-logo="" group-title="Favorite",Pluto TV Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
+#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-name="Pluto TV Comedy Central Latino (720p)" tvg-logo="https://i.imgur.com/FiM7Rbz.png" group-title="Favorite",Pluto TV Comedy Central Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickPlutoTV.de" tvg-name="Pluto TV Nick (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Favorite",Pluto TV Nick (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca673e0d0bd6c2689c94ce3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=977&terminate=false&userId=
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-name="Pluto TV Nick Clásico (720p)" tvg-logo="https://i.imgur.com/yxOuiqj.png" group-title="Favorite",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Pluto TV Nick Jr. (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Favorite",Pluto TV Nick Jr. (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6748a37b88b269472dad9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=978&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-name="Pluto TV Nick Jr. Latino (720p)" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Favorite",Pluto TV Nick Jr. Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-name="Televisa Ciudad Juarez (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="Favorite",Televisa Ciudad Juarez (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+#EXTINF:-1 tvg-id="TVMas.mx" tvg-name="TVMás (720p)" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="Favorite",TVMás (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 tvg-id="KUVNDT1.us" tvg-name="Univision DFW [Geo-blocked]" tvg-logo="https://i.imgur.com/PGJOFD4.png" group-title="Favorite",Univision DFW [Geo-blocked]
+https://unidfp-nlds138.global.ssl.fastly.net/nlds/univisionnow/univision_dal2/as/live/univision_dal2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="USATODAY.us" tvg-name="USA Today (720p)" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="Favorite",USA Today (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="familia" tvg-name="ViX Familia (720p)" tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Favorite",ViX Familia (720p)
+https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ja" tvg-name="ViX Jajaja (1080p)" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Favorite",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="vixlo" tvg-name="ViX Lo Mejor De La Liga MX (720p)" tvg-logo="https://i.ibb.co/n3FyYx0/Captura-de-pantalla-2023-04-01-184651.png" group-title="Favorite",ViX Lo Mejor De La Liga MX (720p)
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="vix" tvg-name="ViX Parejas (1080p)" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Favorite",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
